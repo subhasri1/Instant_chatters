@@ -44,13 +44,6 @@ void registr()
         cin>>regpass;
         cout<<"\nConfirm password :";
         cin>>confirmpass;
-	again:
-        	cout<<"\nEnter the password :";
-        	cin>>regpass;
-        	cout<<"\nConfirm password :";
-        	cin>>confirmpass;
-		
-	
 
         if(regpass==confirmpass)
         {

@@ -4,7 +4,6 @@
 #include<stdlib.h>
 #include<string.h>
 using namespace std;
-void login();
 void registr();
 
 int main()

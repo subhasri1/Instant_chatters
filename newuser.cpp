@@ -63,7 +63,33 @@ void login()
 		cout<<endl;
                 cin.get();
 		cin.get();
-                main();
+		int c;
+		cout<<endl;
+		cout<<"Menu"<<endl;
+		cout<<"1.Chat"<<endl;
+		cout<<"2.Search history"<<endl;
+        	cout<<"3.Logout"<<endl;
+        	cout<<"\nEnter your choice :";
+       		cin>>c;
+        	cout<<endl;
+        	switch(c)
+        	{
+                case 1:
+                        /*chat function;
+                        break;*/
+		case 2:
+			/*cout<<"Enter the word to search"<<endl;
+			cin>>search;
+			break;*/
+                case 3:
+                        /*cout<<"You have logged out successfully\n\n";
+                        break;
+			main();*/
+                default:
+			system("clear");
+                        cout<<"Invalid choice! Try again\n"<<endl;
+                        main();
+                }
         }
         else
         {	

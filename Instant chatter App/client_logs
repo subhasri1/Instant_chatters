@@ -1,0 +1,8 @@
+[+Info] socket is created..!
+[+Info] Sockaddr initialization..!
+[+Info] Connecting to the server..!
+[+Info] handshaking with the client is successful..
+[+Info] getting the loggin in status from server..
+[+Info] checkin for signal (bye or abnormal temination)..
+[+Info] thread for sending message starts..
+[+Info] thread for sending receiving starts..

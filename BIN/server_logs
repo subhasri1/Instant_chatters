@@ -1,0 +1,47 @@
+[+Info] socket is created..!
+[+Info] Sockaddr initialization..!
+[+Info] Binding..
+[+Info] Listening..
+[+Info] Server are listening on port Number..8080
+[+Info] Accepting the client..
+[+Info] handshaking with the client is successful..
+[+Info] socket is created..!
+[+Info] Sockaddr initialization..!
+[+Info] Binding..
+[+error] error in Binding socket
+[+Info] socket is created..!
+[+Info] Sockaddr initialization..!
+[+Info] Binding..
+[+Info] Listening..
+[+Info] Server are listening on port Number..3000
+[+Info] Accepting the client..
+[+Info] handshaking with the client is successful..
+[+Info] Sending the online name status to client..
+[+Info] Accepting the client..
+[+Info] handshaking with the client is successful..
+[+Info] Sending the online name status to client..
+[+Info] Accepting the client..
+[+Info] socket is created..!
+[+Info] Sockaddr initialization..!
+[+Info] Binding..
+[+Info] Listening..
+[+Info] Server are listening on port Number..8080
+[+Info] Accepting the client..
+[+Info] handshaking with the client is successful..
+[+Info] Sending the online name status to client..
+[+Info] Accepting the client..
+[+Info] handshaking with the client is successful..
+[+Info] Sending the online name status to client..
+[+Info] Accepting the client..
+[+Info] socket is created..!
+[+Info] Sockaddr initialization..!
+[+Info] Binding..
+[+Info] Listening..
+[+Info] Server are listening on port Number..8080
+[+Info] Accepting the client..
+[+Info] handshaking with the client is successful..
+[+Info] Sending the online name status to client..
+[+Info] Accepting the client..
+[+Info] handshaking with the client is successful..
+[+Info] Sending the online name status to client..
+[+Info] Accepting the client..

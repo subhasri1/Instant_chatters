@@ -1,0 +1,59 @@
+[+Info] socket is created..!
+[+Info] Sockaddr initialization..!
+[+Info] Connecting to the server..!
+[+Info] handshaking with the client is successful..
+[+Info] getting the loggin in status from server..
+[+Info] Entering the new user into server file..
+[+Info] Registration successful status..
+[+Info] socket is created..!
+[+Info] Sockaddr initialization..!
+[+Info] Connecting to the server..!
+[+Info] handshaking with the client is successful..
+[+Info] getting the loggin in status from server..
+[+Info] checkin for signal (bye or abnormal temination)..
+[+Info] thread for sending message starts..
+[+Info] thread for sending receiving starts..
+[+Info] socket is created..!
+[+Info] Sockaddr initialization..!
+[+Info] Connecting to the server..!
+[+Info] handshaking with the client is successful..
+[+Info] getting the loggin in status from server..
+[+Info] checkin for signal (bye or abnormal temination)..
+[+Info] thread for sending message starts..
+[+Info] thread for sending receiving starts..
+[+Info] socket is created..!
+[+Info] Sockaddr initialization..!
+[+Info] Connecting to the server..!
+[+Info] handshaking with the client is successful..
+[+Info] getting the loggin in status from server..
+[+Info] checkin for signal (bye or abnormal temination)..
+[+Info] thread for sending message starts..
+[+Info] thread for sending receiving starts..
+[+Info] socket is created..!
+[+Info] Sockaddr initialization..!
+[+Info] Connecting to the server..!
+[+Info] handshaking with the client is successful..
+[+Info] getting the loggin in status from server..
+[+Info] checkin for signal (bye or abnormal temination)..
+[+Info] thread for sending message starts..
+[+Info] thread for sending receiving starts..
+[+Info] socket is created..!
+[+Info] Sockaddr initialization..!
+[+Info] Connecting to the server..!
+[+Info] handshaking with the client is successful..
+[+Info] getting the loggin in status from server..
+[+Info] checkin for signal (bye or abnormal temination)..
+[+Info] thread for sending message starts..
+[+Info] thread for sending receiving starts..
+[+Info] socket is created..!
+[+Info] Sockaddr initialization..!
+[+Info] Connecting to the server..!
+[+Info] handshaking with the client is successful..
+[+Info] getting the loggin in status from server..
+[+Info] checkin for signal (bye or abnormal temination)..
+[+Info] thread for sending message starts..
+[+Info] thread for sending receiving starts..
+[+Info] closing the socket desciptor..
+[+error] error closing the socket descriptor ..
+[+Info] closing the socket desciptor..
+[+error] error closing the socket descriptor ..
